@@ -22,4 +22,5 @@ const {sphincs} = require('sphincs');
 const ed = require('noble-ed25519');
 const x25519 = require('curve25519-js');
 const {sidh} = require('sidh');
+require('es-first-aid');
 

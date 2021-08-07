@@ -18,6 +18,7 @@
   "homepage": "https://github.com/metastable-void/icquai-msg#readme",
   "dependencies": {
     "curve25519-js": "^0.0.4",
+    "es-first-aid": "^1.6.1",
     "noble-ed25519": "^1.2.5",
     "sidh": "^5.1.4",
     "sphincs": "^2.4.1"
